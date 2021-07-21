@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been extensively working in React for the past 6 months.  I have built a kit for Carnatic music.It includes Ecommerce App,Video Library App,Social Media App with Redux Toolkit,Quiz App in TypeScript,Notes App./
+I have been extensively working in React for the past 6 months.  I have built a kit for Carnatic music.It includes Ecommerce App,Video Library App,Social Media App with Redux Toolkit,Quiz App in TypeScript,Notes App.
 
 They are full stack application(MERN) with JWT authentication.  I have also created a small component library and used them in few of my apps to have a consistant design.
 
